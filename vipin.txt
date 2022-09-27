@@ -1,0 +1,13 @@
+welcome to github
+what is repository?
+we need to share oure code so we are storing some where it could be a folder or on redmote location so where we oure share ever code 
+is repository when we are working a code,
+at one which one repository  
+github
+it track changes the file 
+manages the code
+versioning
+git hub
+
+web based hosting services
+command line tool
